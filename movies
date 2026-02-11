@@ -1,0 +1,52 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "imdb_id": "tt0111161",
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmRhMC00ZDJlLWFmNTEtODM1ZmFlYjNlZDVlXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX128_CR0,3,128,176_AL_.jpg"
+    },
+    {
+        "title": "The Godfather",
+        "imdb_id": "tt0068646",
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmYtYTAwZS00ZjQ5LWFmNTEtODM1ZmFlYjNlZDVlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX128_CR0,3,128,176_AL_.jpg"
+    },
+    {
+        "title": "The Dark Knight",
+        "imdb_id": "tt0468569",
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtYTAwZi00ZjQ5LWFmNTEtODM1ZmFlYjNlZDVlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX128_CR0,3,128,176_AL_.jpg"
+    },
+    {
+        "title": "The Godfather: Part II",
+        "imdb_id": "tt0071562",
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BMWMwMGYzYzEtYTAwZi00ZjQ5LWFmNTEtODM1ZmFlYjNlZDVlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX128_CR0,3,128,176_AL_.jpg"
+    },
+    {
+        "title": "12 Angry Men",
+        "imdb_id": "tt0050083",
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjY1OV5BMl5BanBnXkFtZTcwODU2NzM0MQ@@._V1_UX128_CR0,3,128,176_AL_.jpg"
+    },
+    {
+        "title": "Schindler's List",
+        "imdb_id": "tt0108052",
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxNjcxNV5BMl5BanBnXkFtZTgwNzY1NDE@._V1_UX128_CR0,3,128,176_AL_.jpg"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "imdb_id": "tt0167260",
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtYTAwZi00ZjQ5LWFmNTEtODM1ZmFlYjNlZDVlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX128_CR0,3,128,176_AL_.jpg"
+    },
+    {
+        "title": "Pulp Fiction",
+        "imdb_id": "tt0110912",
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzMmYtYTAwZi00ZjQ5LWFmNTEtODM1ZmFlYjNlZDVlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX128_CR0,3,128,176_AL_.jpg"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "imdb_id": "tt0120737",
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BM2EyZjM3NzUtYTAwZi00ZjQ5LWFmNTEtODM1ZmFlYjNlZDVlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX128_CR0,3,128,176_AL_.jpg"
+    },
+    {
+        "title": "The Good, the Bad and the Ugly",
+        "imdb_id": "tt0060196",
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNzA5ZDVlZTUtYTAwZi00ZjQ5LWFmNTEtODM1ZmFlYjNlZDVlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX128_CR0,3,128,176_AL_.jpg"
+    }
+]
